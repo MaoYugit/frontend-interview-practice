@@ -1,0 +1,1 @@
+- _场景_：不用 Pinia/Redux，仅用 Vue 3 的 `reactive` 或 React 的 `useContext` 实现一个简单的轻量级全局状态管理。
