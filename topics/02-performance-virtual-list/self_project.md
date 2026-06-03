@@ -15,6 +15,7 @@
 接下来，我们在终端里执行命令，把这个 Demo 的开发工程搭建起来。
 
 1. **创建并进入 demo 目录**（在项目根目录下执行）：
+   
    ```bash
    mkdir -p topics/02-performance-virtual-list/demo
    cd topics/02-performance-virtual-list/demo
@@ -56,7 +57,7 @@
 
    
 
-3. **创建入口渲染实例 `src/index.ts`**
+3. **创建入口渲染实例 `src/main.ts`**
 
    
 
